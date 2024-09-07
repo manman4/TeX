@@ -8,4 +8,4 @@ https://tex.stackexchange.com/questions/173717/is-it-ever-bad-to-use-left-and-ri
 
 \biggl と \biggr で囲むと、角が丸くなる。
 
-SumやProdを囲む場合は、\biggl との間が狭いので、\, を入れると見栄えが良くなる。
+SumやProdを囲む場合は、\biggl との間が狭いので、"\," を入れると見栄えが良くなる。
